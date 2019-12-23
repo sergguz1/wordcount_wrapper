@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5fc77d0-02ea-4f04-a885-ca34d28cc2b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\serg_\PycharmProjects\wordcount_wrapper\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V8QhbzbfBdpyPx0OIa5riwEw5h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\serg_\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5fc77d0-02ea-4f04-a885-ca34d28cc2b9" name="Default Changelist" comment="" />
+      <created>1576632362148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576632362148</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit of the wordcount project">
+      <created>1577102263932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577102263932</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit of the wordcount project">
+      <created>1577103465555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577103465555</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit of the wordcount project">
+      <created>1577103769568</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577103769568</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Commit of the wordcount project">
+      <created>1577103890938</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577103890938</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial Commit of the wordcount project">
+      <created>1577103918006</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577103918006</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial Commit of the wordcount project">
+      <created>1577104151469</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577104151469</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit of the wordcount project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit of the wordcount project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1438" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576636673164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1438" y="345" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576636673164" />
+    <state x="614" y="113" key="CommitChangelistDialog2" timestamp="1577104131941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577104131941" />
+    <state x="691" y="258" key="FileChooserDialogImpl" timestamp="1577103714707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="258" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577103714707" />
+    <state x="794" y="418" width="356" height="204" key="Github.CreateGistDialog" timestamp="1577104520908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="418" width="356" height="204" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577104520908" />
+    <state x="893" y="353" width="332" height="249" key="Github.ShareDialog" timestamp="1577103837562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="893" y="353" width="332" height="249" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577103837562" />
+    <state x="799" y="227" key="SettingsEditor" timestamp="1577103029017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="799" y="227" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577103029017" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1577103921357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577103921357" />
+    <state x="749" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1577104071276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577104071276" />
+    <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577104434058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577104434058" />
+  </component>
+</project>
